@@ -1,0 +1,14 @@
+﻿
+@{
+    ViewBag.Title = "History";
+}
+@Scripts.Render("~/bundles/jquery")
+@Scripts.Render("~/bundles/kendo")
+<script>
+    $("#spinner").show();
+    $(".container.body-content").hide();
+</script>
+<h2>History</h2>
+<div id="Table"></div>
+
+@Scripts.Render("../Scripts/history_script.js")

@@ -1,0 +1,27 @@
+﻿body {
+}
+
+.inputs-container{
+    padding-bottom: 30px;
+    padding-top: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.input-line {
+    display: inline-flex;
+    margin-right: 40px;
+}
+
+.editor-label {
+    margin-right: 10px;
+}
+
+.field-validation-valid {
+    font-weight: bold;
+    color: red;
+}
+
+#apply-btn {
+    width:100px;
+}
