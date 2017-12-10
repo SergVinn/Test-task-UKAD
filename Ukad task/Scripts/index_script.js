@@ -88,7 +88,7 @@ table = $("#table").kendoGrid({
     columns: [
         {
             field: "Url",
-            title: "Address"
+            title: "Url"
         },
         {
             field: "SpendTime",

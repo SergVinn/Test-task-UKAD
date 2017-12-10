@@ -29,7 +29,7 @@ namespace Ukad_task
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
                       "~/Content/bootstrap.css",
-                      "~/Content/site.css",
+                      "~/Content/Site.css",
                       "~/Content/kendo.common.min.css",
                       "~/Content/kendo.default.min.css"));
             bundles.Add(new StyleBundle("~/Content/index").Include(

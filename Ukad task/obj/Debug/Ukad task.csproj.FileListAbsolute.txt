@@ -58,3 +58,63 @@ C:\Users\serge\OneDrive\Документы\Repositories\UKADtask\Ukad task\bin\E
 C:\Users\serge\OneDrive\Документы\Repositories\UKADtask\Ukad task\bin\EntityFramework.SqlServer.dll
 C:\Users\serge\OneDrive\Документы\Repositories\UKADtask\Ukad task\bin\EntityFramework.xml
 C:\Users\serge\OneDrive\Документы\Repositories\UKADtask\Ukad task\bin\EntityFramework.SqlServer.xml
+C:\Users\serge\OneDrive\Документы\TestUkadTask\Ukad task\bin\ApplicationInsights.config
+C:\Users\serge\OneDrive\Документы\TestUkadTask\Ukad task\bin\roslyn\csc.exe
+C:\Users\serge\OneDrive\Документы\TestUkadTask\Ukad task\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\serge\OneDrive\Документы\TestUkadTask\Ukad task\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\serge\OneDrive\Документы\TestUkadTask\Ukad task\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\serge\OneDrive\Документы\TestUkadTask\Ukad task\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\serge\OneDrive\Документы\TestUkadTask\Ukad task\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\serge\OneDrive\Документы\TestUkadTask\Ukad task\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\serge\OneDrive\Документы\TestUkadTask\Ukad task\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\serge\OneDrive\Документы\TestUkadTask\Ukad task\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\serge\OneDrive\Документы\TestUkadTask\Ukad task\bin\roslyn\vbc.exe
+C:\Users\serge\OneDrive\Документы\TestUkadTask\Ukad task\bin\roslyn\VBCSCompiler.exe
+C:\Users\serge\OneDrive\Документы\TestUkadTask\Ukad task\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\serge\OneDrive\Документы\TestUkadTask\Ukad task\bin\Ukad task.dll.config
+C:\Users\serge\OneDrive\Документы\TestUkadTask\Ukad task\bin\Ukad task.dll
+C:\Users\serge\OneDrive\Документы\TestUkadTask\Ukad task\bin\Ukad task.pdb
+C:\Users\serge\OneDrive\Документы\TestUkadTask\Ukad task\bin\Antlr3.Runtime.dll
+C:\Users\serge\OneDrive\Документы\TestUkadTask\Ukad task\bin\EntityFramework.dll
+C:\Users\serge\OneDrive\Документы\TestUkadTask\Ukad task\bin\EntityFramework.SqlServer.dll
+C:\Users\serge\OneDrive\Документы\TestUkadTask\Ukad task\bin\HtmlAgilityPack.dll
+C:\Users\serge\OneDrive\Документы\TestUkadTask\Ukad task\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\serge\OneDrive\Документы\TestUkadTask\Ukad task\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\serge\OneDrive\Документы\TestUkadTask\Ukad task\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\serge\OneDrive\Документы\TestUkadTask\Ukad task\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\serge\OneDrive\Документы\TestUkadTask\Ukad task\bin\Microsoft.AI.Web.dll
+C:\Users\serge\OneDrive\Документы\TestUkadTask\Ukad task\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\serge\OneDrive\Документы\TestUkadTask\Ukad task\bin\Microsoft.ApplicationInsights.dll
+C:\Users\serge\OneDrive\Документы\TestUkadTask\Ukad task\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\serge\OneDrive\Документы\TestUkadTask\Ukad task\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\serge\OneDrive\Документы\TestUkadTask\Ukad task\bin\Newtonsoft.Json.dll
+C:\Users\serge\OneDrive\Документы\TestUkadTask\Ukad task\bin\System.Web.Helpers.dll
+C:\Users\serge\OneDrive\Документы\TestUkadTask\Ukad task\bin\System.Web.Mvc.dll
+C:\Users\serge\OneDrive\Документы\TestUkadTask\Ukad task\bin\System.Web.Optimization.dll
+C:\Users\serge\OneDrive\Документы\TestUkadTask\Ukad task\bin\System.Web.Razor.dll
+C:\Users\serge\OneDrive\Документы\TestUkadTask\Ukad task\bin\System.Web.WebPages.Deployment.dll
+C:\Users\serge\OneDrive\Документы\TestUkadTask\Ukad task\bin\System.Web.WebPages.dll
+C:\Users\serge\OneDrive\Документы\TestUkadTask\Ukad task\bin\System.Web.WebPages.Razor.dll
+C:\Users\serge\OneDrive\Документы\TestUkadTask\Ukad task\bin\WebGrease.dll
+C:\Users\serge\OneDrive\Документы\TestUkadTask\Ukad task\bin\EntityFramework.xml
+C:\Users\serge\OneDrive\Документы\TestUkadTask\Ukad task\bin\EntityFramework.SqlServer.xml
+C:\Users\serge\OneDrive\Документы\TestUkadTask\Ukad task\bin\HtmlAgilityPack.pdb
+C:\Users\serge\OneDrive\Документы\TestUkadTask\Ukad task\bin\HtmlAgilityPack.xml
+C:\Users\serge\OneDrive\Документы\TestUkadTask\Ukad task\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\serge\OneDrive\Документы\TestUkadTask\Ukad task\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\serge\OneDrive\Документы\TestUkadTask\Ukad task\bin\Microsoft.AI.Web.xml
+C:\Users\serge\OneDrive\Документы\TestUkadTask\Ukad task\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\serge\OneDrive\Документы\TestUkadTask\Ukad task\bin\Microsoft.ApplicationInsights.xml
+C:\Users\serge\OneDrive\Документы\TestUkadTask\Ukad task\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\serge\OneDrive\Документы\TestUkadTask\Ukad task\bin\System.Web.Helpers.xml
+C:\Users\serge\OneDrive\Документы\TestUkadTask\Ukad task\bin\System.Web.Mvc.xml
+C:\Users\serge\OneDrive\Документы\TestUkadTask\Ukad task\bin\System.Web.Optimization.xml
+C:\Users\serge\OneDrive\Документы\TestUkadTask\Ukad task\bin\System.Web.Razor.xml
+C:\Users\serge\OneDrive\Документы\TestUkadTask\Ukad task\bin\System.Web.WebPages.xml
+C:\Users\serge\OneDrive\Документы\TestUkadTask\Ukad task\bin\System.Web.WebPages.Deployment.xml
+C:\Users\serge\OneDrive\Документы\TestUkadTask\Ukad task\bin\System.Web.WebPages.Razor.xml
+C:\Users\serge\OneDrive\Документы\TestUkadTask\Ukad task\bin\Antlr3.Runtime.pdb
+C:\Users\serge\OneDrive\Документы\TestUkadTask\Ukad task\bin\Newtonsoft.Json.xml
+C:\Users\serge\OneDrive\Документы\TestUkadTask\Ukad task\obj\Debug\Ukad task.csprojResolveAssemblyReference.cache
+C:\Users\serge\OneDrive\Документы\TestUkadTask\Ukad task\obj\Debug\Ukad task.dll
+C:\Users\serge\OneDrive\Документы\TestUkadTask\Ukad task\obj\Debug\Ukad task.pdb

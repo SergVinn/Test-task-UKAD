@@ -1,6 +1,24 @@
 ﻿body {
     padding-top: 50px;
     padding-bottom: 20px;
+    font-family: "Times New Roman" !important;
+}
+
+.navbar-inverse .navbar-nav > li > a:hover, 
+.navbar-inverse .navbar-nav > li > a:focus, 
+.navbar-inverse .navbar-brand:hover, 
+.navbar-inverse .navbar-brand:focus {
+    color: rgb(0, 0, 0);
+    background-color: transparent;
+}
+
+.navbar.navbar-inverse.navbar-fixed-top {
+    font-family: "Times New Roman" !important;
+    font-style: oblique !important;
+    background-color: rgb(243, 242, 242);
+    border-color: rgb(243, 95, 10);
+    border-width: 0 0 3px;
+
 }
 
 /* Set padding to keep content from hitting the edges */
