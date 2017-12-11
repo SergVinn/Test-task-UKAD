@@ -69,7 +69,7 @@ function SendPost(actionPath) {
             $(".container.body-content").show();
             e.responseJSON.forEach((error) => {
                 error.errors.forEach((message) => {
-                    console.dir($('[data-valmsg-for="' + error.key + '"]').text(message));
+                    $('[data-valmsg-for="' + error.key + '"]').text(message);
                 });
             });
         }
